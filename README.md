@@ -2,6 +2,7 @@
 ## Exercise Files
 
 **You can get the book on **[Amazon](https://www.amazon.com/dp/B08N1MKHPT)**.**
+![](https://m.media-amazon.com/images/I/51wcDm3pSfL.jpg) 
 * * * * *
 
 My other programming books are available on [Amazon](amazon.com/author/nyisztor) and [iTunes](https://itunes.apple.com/us/author/karoly-nyisztor/id1345964804?mt=11).

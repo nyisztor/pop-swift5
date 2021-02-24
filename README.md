@@ -2,6 +2,7 @@
 ## Exercise Files
 
 **You can get the book on **[Amazon](https://www.amazon.com/dp/B08N1MKHPT)**.**
+* * * * *
 ![](https://m.media-amazon.com/images/I/51wcDm3pSfL.jpg) 
 * * * * *
 
